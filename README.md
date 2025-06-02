@@ -1,4 +1,4 @@
-# react-tutorial
+# weather-app
 
 This is a React tutorial project bootstrapped with Vite. It demonstrates a basic React application setup using modern tooling.
 
