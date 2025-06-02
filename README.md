@@ -2,6 +2,10 @@
 
 This is a React tutorial project bootstrapped with Vite. It demonstrates a basic React application setup using modern tooling.
 
+## Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=github)](https://bmaarianto.github.io/weather-app)
+
 ## Prerequisites
 
 - Node.js (version 14 or higher recommended)
