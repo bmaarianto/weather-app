@@ -2,6 +2,7 @@
   "name": "react-tutorial",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://bmaarianto.github.io/weather-app",
   "type": "module",
   "scripts": {
     "dev": "vite",
